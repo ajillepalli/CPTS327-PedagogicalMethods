@@ -4,7 +4,7 @@ This project includes both the dataset and the analysis code used for exploring 
 
 ### Folder Structure
 
-- **`Dataset/s`**  
+- **`Datasets/`**  
   Contains the dataset files used for the analysis.
 
 - **`Python/`**  
